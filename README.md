@@ -18,22 +18,6 @@ A data-driven web application to analyze traffic accident patterns and predict r
 - Plotly - Interactive visualizations
 - Pandas/NumPy - Data processing
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/traffic_accident_analysis.git
-cd traffic_accident_analysis
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Generate dataset
-python generate_expanded_data.py
 
 # Run the app
 streamlit run app.py
