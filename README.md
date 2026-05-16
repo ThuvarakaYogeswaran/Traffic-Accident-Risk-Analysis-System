@@ -33,7 +33,7 @@ traffic_accident_analysis/
 
 # How It Works
 
-Risk Score Formula
+-** Risk Score Formula **-
 
 Risk = (% Vulnerable Vehicles) / (% Heavy Vehicles)
 
